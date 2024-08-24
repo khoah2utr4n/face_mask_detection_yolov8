@@ -1,0 +1,10 @@
+ultralytics
+matplotlib==3.9.0
+numpy==1.24.3
+opencv_python==4.10.0.84
+Pillow==10.4.0
+scikit_learn==1.5.1
+ultralytics==8.2.56
+ultralytics-thop==2.0.0
+streamlit
+streamlit-webrtc
