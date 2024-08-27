@@ -1,6 +1,8 @@
 # Face Mask Detection with YOLOv8
 This project implements a face mask detection system using a powerful [YOLOv8](https://github.com/ultralytics/ultralytics) model from Ultralytics and the [Face Mask Detection Dataset](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection) on Kaggle. It can classify faces into three categories: wear a mask, wear a mask incorrectly, and not wear a mask. In addition, a user-friendly Streamlit web interface has been created to detect mask usage in real-time webcam or uploaded images.
 
+![Screenshot 2024-08-27 160046](https://github.com/user-attachments/assets/b388ab6b-3c37-4596-abda-dda5981050ce)
+
 ## Setup
 ### 1. Create a virtual environment 
   ```
