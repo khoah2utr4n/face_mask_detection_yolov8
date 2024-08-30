@@ -21,7 +21,7 @@ This project implements a face mask detection system using a powerful [YOLOv8](h
   ```
 ### 3. Dataset
   * Download [Face Mask Detection Dataset](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection), uncompress it and put `images` folder and `annotations` folder in the `datasets` folder.
-  * Prepocess the dataset:
+  * Preprocess the dataset:
   ```
   python preprocessing_data.py
   ```
